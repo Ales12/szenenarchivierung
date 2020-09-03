@@ -4,6 +4,10 @@
 - Inplaytracker von Ales muss installiert sein
 - Font-Awesome muss eingefügt sein
 
+// variabeln
+in showthread
+{$user_archiving}
+
 // Templates
 
 ##showthread_archiving##
